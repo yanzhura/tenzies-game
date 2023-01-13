@@ -1,6 +1,6 @@
 {
     "name": "08-tenzies-game",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "private": true,
     "homepage": "https://yanzhura.github.io/tenzies-game",
     "dependencies": {
